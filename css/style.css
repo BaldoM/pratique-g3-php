@@ -1,0 +1,9 @@
+
+body {
+    background-color: black;
+}
+
+thead th {
+    text-transform: uppercase;
+    text-align: center;
+}
